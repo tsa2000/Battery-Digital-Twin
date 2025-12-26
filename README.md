@@ -197,7 +197,7 @@ Contributions are welcome! Please feel free to:
 ---
 
 ## 👤 Author
-
+**THAER ABUSHAWER**
 **Mechanical Engineering Graduate Student**  
 Focus: Thermal Systems & Battery Management  
 Research: Physics-Informed Machine Learning for Energy Applications
@@ -216,7 +216,7 @@ Research: Physics-Informed Machine Learning for Energy Applications
 
 For questions, collaborations, or feedback:
 - 📫 Open an issue on GitHub
-- 💼 Connect on LinkedIn
+- thaer199@gmail.com
 
 ---
 
@@ -235,5 +235,4 @@ text
 
 ---
 
-**Made with ❤️ and ⚡ for safer battery systems**
-✅ الآن:
+**Made with ❤️ and ⚡ for safer battery systems** 
