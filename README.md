@@ -166,7 +166,7 @@ This work is based on experimental research by:
 **Coman, P. T., Mátéfi-Tempfli, S., Veje, C. T., & White, R. E. (2022)**  
 *"Simplified Thermal Runaway Model for Lithium-Ion Cells"*  
 **Journal of The Electrochemical Society**, 169(4), 040516.  
-[https://doi.org/10.1149/1945-7111/ac62c6](https://doi.org/10.1149/1945-7111/ac62c6)
+https://iopscience.iop.org/article/10.1149/1945-7111/ac62bd
 
 ---
 
