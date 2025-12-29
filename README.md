@@ -62,7 +62,7 @@ The interface accepts natural language queries:
 **Why 0D?**
 - ✅ Real-time performance
 - ✅ Sufficient accuracy for safety assessment
-- ✅ 100× faster than CFD
+- ✅ 10000× faster than CFD
 - ✅ Ideal for digital twin applications
 
 ### Hybrid Solver
@@ -154,7 +154,7 @@ Each output includes:
 ### Performance
 
 - **Training Time**: ~15 minutes (GPU)
-- **Inference Time**: <1 second per scenario
+- **Inference Time**: <0.1 second per scenario
 - **Confidence Intervals**: 95% CI
 
 ---
